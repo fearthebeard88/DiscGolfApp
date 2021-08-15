@@ -1,0 +1,12 @@
+{
+  "name": "discgolfapp",
+  "version": "1.0.0",
+  "description": "Disc Golf Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sh start.sh"
+  },
+  "author": "Tim Ferris",
+  "license": "ISC"
+}
