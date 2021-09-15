@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "sh start.sh"
+    "start": "sh start.sh",
+	"build-wasm": "sh src/build.sh"
   },
   "author": "Tim Ferris",
   "license": "ISC"
